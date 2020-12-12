@@ -26,7 +26,7 @@ const HeroSection = () => {
                 <VideoBg src={image1} />
             </HeroBg>
             <HeroContent>
-                <HeroH1>FGDesign is a Graphic Designer</HeroH1>
+                <HeroH1>iDESIGN is a Graphic Designer</HeroH1>
                 <HeroP>
                     Kick start your business, beautiful social media designs, and a complete brand identity.
                 </HeroP>

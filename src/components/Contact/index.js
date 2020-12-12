@@ -33,11 +33,11 @@ const Contact = () => {
                     <ContactTitle>Contact Us</ContactTitle>
                     <ContainerRow>
                         <ContactIcon src={Icon1}/>
-                        <ContainerTextIcon>521 Santan St. Batasan Hills Quezon City</ContainerTextIcon>
+                        <ContainerTextIcon>533 dummy text of the printing and industry.</ContainerTextIcon>
                     </ContainerRow>
                     <ContainerRow>
                         <ContactIcon src={Icon2}/>
-                        <ContainerTextIcon>fgdesign@gmail.com</ContainerTextIcon>
+                        <ContainerTextIcon>loremipsum@gmail.com</ContainerTextIcon>
                     </ContainerRow>
                     <ContainerRow>
                         <ContactIcon src={Icon3}/>

@@ -53,7 +53,7 @@ const Footer = () => {
                     </FooterLinksWrapper>
                 </FooterLinksContainer>
                 <SocialMediaWrap>
-                    <WebsiteRights>FGDesign © {new Date().getFullYear()} All rights reserved.</WebsiteRights>
+                    <WebsiteRights>iDESIGN © {new Date().getFullYear()} All rights reserved.</WebsiteRights>
                 </SocialMediaWrap>
             </FooterWrap>
         </FooterContainer>

@@ -62,7 +62,7 @@ const InfoSection = ({
                                 </BtnWrap>
                             </TextWrapper>
                         </Column1>
-                        <Column2 data-aos="fade-left">
+                        <Column2 data-aos="fade-right">
                             <ImgWrap>
                                 <Img src={img} alt={alt}/>
                             </ImgWrap>
