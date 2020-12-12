@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/idesign/static/css/main.fabc6211.chunk.css",
+    "main.js": "/idesign/static/js/main.455ce059.chunk.js",
+    "main.js.map": "/idesign/static/js/main.455ce059.chunk.js.map",
+    "runtime-main.js": "/idesign/static/js/runtime-main.14727776.js",
+    "runtime-main.js.map": "/idesign/static/js/runtime-main.14727776.js.map",
+    "static/css/2.ec02d681.chunk.css": "/idesign/static/css/2.ec02d681.chunk.css",
+    "static/js/2.e7643b8d.chunk.js": "/idesign/static/js/2.e7643b8d.chunk.js",
+    "static/js/2.e7643b8d.chunk.js.map": "/idesign/static/js/2.e7643b8d.chunk.js.map",
+    "index.html": "/idesign/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/idesign/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.fabc6211.chunk.css.map": "/idesign/static/css/main.fabc6211.chunk.css.map",
+    "static/js/2.e7643b8d.chunk.js.LICENSE.txt": "/idesign/static/js/2.e7643b8d.chunk.js.LICENSE.txt",
+    "static/media/banner.9a7b4b9c.png": "/idesign/static/media/banner.9a7b4b9c.png",
+    "static/media/bg.23320f1b.jpg": "/idesign/static/media/bg.23320f1b.jpg",
+    "static/media/bsize1.5567d7eb.jpg": "/idesign/static/media/bsize1.5567d7eb.jpg",
+    "static/media/bsize2.d12da5f1.jpg": "/idesign/static/media/bsize2.d12da5f1.jpg",
+    "static/media/gdesign.08e0a502.png": "/idesign/static/media/gdesign.08e0a502.png",
+    "static/media/label.47f78f86.png": "/idesign/static/media/label.47f78f86.png",
+    "static/media/logo.8bb7c5ad.png": "/idesign/static/media/logo.8bb7c5ad.png",
+    "static/media/mockup1.d1df69f8.jpg": "/idesign/static/media/mockup1.d1df69f8.jpg",
+    "static/media/mockup2.59a02188.jpg": "/idesign/static/media/mockup2.59a02188.jpg",
+    "static/media/mockup3.cf618b04.jpg": "/idesign/static/media/mockup3.cf618b04.jpg",
+    "static/media/mockup4.3fa00e49.jpg": "/idesign/static/media/mockup4.3fa00e49.jpg",
+    "static/media/svg-1.svg": "/idesign/static/media/svg-1.90d194c5.svg",
+    "static/media/svg-2.svg": "/idesign/static/media/svg-2.083cde04.svg",
+    "static/media/svg-3.svg": "/idesign/static/media/svg-3.1d65ae92.svg",
+    "static/media/svg-4.734a9dbe.svg": "/idesign/static/media/svg-4.734a9dbe.svg",
+    "static/media/up1.2baf9180.jpg": "/idesign/static/media/up1.2baf9180.jpg",
+    "static/media/up2.1a2edc52.jpg": "/idesign/static/media/up2.1a2edc52.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14727776.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.e7643b8d.chunk.js",
+    "static/css/main.fabc6211.chunk.css",
+    "static/js/main.455ce059.chunk.js"
+  ]
+}
