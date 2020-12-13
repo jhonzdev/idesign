@@ -55,10 +55,10 @@ export const PortWrapper = styled.div`
 
     @media screen and (max-width: 800px) {
         grid-template-areas: 
-        'col1 col1 col3 col3'
-        'col1 col1 col2 col4'
-        'col5 col8 col6 col6'
-        'col7 col7 col6 col6';
+        'col1 col1 col6 col6'
+        'col1 col1 col6 col6'
+        'col5 col8 col3 col3'
+        'col7 col7 col2 col4';
     }
 
     @media screen and (max-width: 480px) {
@@ -76,7 +76,7 @@ export const PortWrapper = styled.div`
 
 export const ImgCol1 = styled.img`
     width: 100%;
-    height: 100%;
+    height: 600px;
     grid-area: col1;
     border-radius: 10px;
 
@@ -93,12 +93,12 @@ export const ImgCol1 = styled.img`
 
 export const ImgCol2 = styled.img`
     width: 100%;
-    height: 100%;
+    height: 300px;
     grid-area: col2;
     border-radius: 10px;
 
     @media screen and (max-width: 480px) {
-        height: auto;
+        height: 600px;
     }
 
     &:hover{
@@ -110,7 +110,7 @@ export const ImgCol2 = styled.img`
 
 export const ImgCol3 = styled.img`
     width: 100%;
-    height: auto;
+    height: 300px;
     grid-area: col3;
     border-radius: 10px;
 
@@ -123,7 +123,7 @@ export const ImgCol3 = styled.img`
 
 export const ImgCol4 = styled.img`
     width: 100%;
-    height: auto;
+    height: 300px;
     grid-area: col4;
     border-radius: 10px;
 
@@ -136,7 +136,7 @@ export const ImgCol4 = styled.img`
 
 export const ImgCol5 = styled.img`
     width: 100%;
-    height: auto;
+    height: 300px;
     grid-area: col5;
     border-radius: 10px;
 
@@ -149,12 +149,12 @@ export const ImgCol5 = styled.img`
 
 export const ImgCol6 = styled.img`
     width: 100%;
-    height: 100%;
+    height: 600px;
     grid-area: col6;
     border-radius: 10px;
 
     @media screen and (max-width: 480px) {
-        height: auto;
+        height: 600px;
     }
 
     &:hover{
@@ -166,7 +166,7 @@ export const ImgCol6 = styled.img`
 
 export const ImgCol7 = styled.img`
     width: 100%;
-    height: auto;
+    height: 300px;
     grid-area: col7;
     border-radius: 10px;
 
@@ -180,7 +180,7 @@ export const ImgCol7 = styled.img`
 
 export const ImgCol8 = styled.img`
     width: 100%;
-    height: 100%;
+    height: 300px;
     grid-area: col8;
     border-radius: 10px;
 
@@ -194,10 +194,4 @@ export const ImgCol8 = styled.img`
         cursor: pointer;
     }
 `
-
-
-
-
-
-// PortImage
 
